@@ -8,6 +8,9 @@ $(document).ready(function() {
     
 });
 
+
+
+
 //header-slider
 $(document).ready(function () {
     $('.slider').slick({
